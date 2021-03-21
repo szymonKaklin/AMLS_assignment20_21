@@ -1,7 +1,5 @@
 # README
 This is the final submission for module ELEC0134 AMLS_20/21.
-Note: This is a throwaway github account, the git commit history can be provided upon request as it is
-on my main account.
 
 ## How to run
 To run project, upload the required datasets into the empty dataset folder, and run main.py.
