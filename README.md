@@ -1,5 +1,6 @@
 # README
 This is the final submission for module ELEC0134 AMLS_20/21.
+The report on the project is found in this repo [here](Final_Report.pdf).
 
 ## How to run
 To run project, upload the required datasets into the empty dataset folder, and run main.py.
@@ -25,7 +26,7 @@ The UtilityA folder contains all utility associated with TaskA.
 The utilityA folder contains all utility associated with TaskA.
     - The files follow a similar purpose structure as the UtilityA folder
     - 'utiltyB.py' contains the eye_extractor function for getting eye features from the cartoon dataset
-    - 'eye_extraciton_test.py' is a test file which is left for illustration purposes of the eye feature extractor  
+    - 'eye_extraciton_test.py' is a test file which is left for illustration purposes of the eye feature extractor
 
 ## Required packages
 OpenCV, sklearn, Keras, matplotlib, dlib (and required dependencies), pandas, numpy
